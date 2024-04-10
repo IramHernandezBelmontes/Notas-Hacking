@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "77051f7298de5961",
+    "type": "split",
+    "children": [
+      {
+        "id": "be3527b12926c887",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc39c0af29bc6c98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Cryptography/waves over lambda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5437c93512b1ee1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c34ff1b3fa121521",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bf025bcd157f6b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9ed6491131b034a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "454a32fe5ef8716a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a9c90e234b24ef01",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9a7201ccb3c20cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43b62f1ac19587e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PicoCTF/Cryptography/waves over lambda.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b2cc59fbb654b5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PicoCTF/Cryptography/waves over lambda.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8683c768f7f8074c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ea18b550c3e4123b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PicoCTF/Cryptography/waves over lambda.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dc39c0af29bc6c98",
+  "lastOpenFiles": [
+    "lambda 4.png",
+    "lambda 3.png",
+    "lambda 2.png",
+    "waves o lamba 1.png",
+    "PicoCTF/Plantilla.md",
+    "PicoCTF/Cryptography/waves over lambda.md",
+    "PicoCTF/Cryptography/la cifra de.md",
+    "PicoCTF/Cryptography/Tapping.md",
+    "tapping.png",
+    "la crifra de.png",
+    "PicoCTF/Cryptography/Caesar.md",
+    "PicoCTF/Cryptography/Easy 1.md",
+    "easy  1.png",
+    "caesar 2.png",
+    "caesar 1 1.png",
+    "caesar 1.png",
+    "PicoCTF/Cryptography/13.md",
+    "Rot 13.png",
+    "PicoCTF/Cryptography/The Numbers.md",
+    "PicoCTF/Cryptography",
+    "PicoCTF/2do Parcial/Parte 2/7 - St3g0.md",
+    "PicoCTF/2do Parcial/Parte 2/6 - Redaction gone wrong.md",
+    "PicoCTF/2do Parcial/Parte 2/5 - Packets Primer.md",
+    "PicoCTF/2do Parcial/Parte 2/4 - Lookey here.md",
+    "PicoCTF/2do Parcial/Parte 2/3 - Enhance!.md",
+    "PicoCTF/2do Parcial/Parte 2/2 - Wireshark doo dooo do doo....md",
+    "PicoCTF/2do Parcial/Parte 2/1 - information.md",
+    "PicoCTF/2do Parcial/Parte 1/8 - Secrets.md",
+    "PicoCTF/2do Parcial/Parte 1/9 - SQL Direct.md",
+    "PicoCTF/2do Parcial/Parte 1/7 - Roboto Sans.md",
+    "PicoCTF/2do Parcial/Parte 1/6 - Power Cookie.md",
+    "PicoCTF/2do Parcial/Parte 1/5 - Forbidden Paths.md",
+    "PicoCTF/2do Parcial/Parte 1/4 - Search source.md",
+    "PicoCTF/2do Parcial/Parte 1/3 - Local Authority.md",
+    "PicoCTF/2do Parcial/Parte 1/2 - Inspect HTML.md",
+    "PicoCTF/2do Parcial/Parte 1/1 - Includes.md",
+    "PicoCTF/Forensic/1 - Glory of the Garden.md",
+    "PicoCTF/2do Parcial/Parte 1/Untitled",
+    "PicoCTF/2do Parcial/Parte 2",
+    "PicoCTF/2do Parcial/Parte 1",
+    "PicoCTF/2do Parcial"
+  ]
+}
