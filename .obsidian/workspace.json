@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Cryptography/waves over lambda.md",
+                "file": "PicoCTF/Cryptography/rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Cryptography/waves over lambda.md",
+                "file": "PicoCTF/Cryptography/rsa-pop-quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Cryptography/waves over lambda.md",
+                "file": "PicoCTF/Cryptography/rsa-pop-quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Cryptography/waves over lambda.md"
+                "file": "PicoCTF/Cryptography/rsa-pop-quiz.md"
               }
             }
           }
@@ -148,12 +148,19 @@
   },
   "active": "dc39c0af29bc6c98",
   "lastOpenFiles": [
+    "quiz rsa.png",
+    "PicoCTF/Plantilla.md",
+    "PicoCTF/Cryptography/rsa-pop-quiz.md",
+    "PicoCTF/Cryptography/b00tl3gRSA2.md",
+    "PicoCTF/Cryptography/mini RSA.md",
+    "RSA2.png",
+    "mini RSA.png",
+    "Retos Bandit/Bandit Nivel 2 - 3..md",
+    "PicoCTF/Cryptography/waves over lambda.md",
     "lambda 4.png",
     "lambda 3.png",
     "lambda 2.png",
     "waves o lamba 1.png",
-    "PicoCTF/Plantilla.md",
-    "PicoCTF/Cryptography/waves over lambda.md",
     "PicoCTF/Cryptography/la cifra de.md",
     "PicoCTF/Cryptography/Tapping.md",
     "tapping.png",
@@ -162,10 +169,7 @@
     "PicoCTF/Cryptography/Easy 1.md",
     "easy  1.png",
     "caesar 2.png",
-    "caesar 1 1.png",
-    "caesar 1.png",
     "PicoCTF/Cryptography/13.md",
-    "Rot 13.png",
     "PicoCTF/Cryptography/The Numbers.md",
     "PicoCTF/Cryptography",
     "PicoCTF/2do Parcial/Parte 2/7 - St3g0.md",
@@ -181,10 +185,6 @@
     "PicoCTF/2do Parcial/Parte 1/6 - Power Cookie.md",
     "PicoCTF/2do Parcial/Parte 1/5 - Forbidden Paths.md",
     "PicoCTF/2do Parcial/Parte 1/4 - Search source.md",
-    "PicoCTF/2do Parcial/Parte 1/3 - Local Authority.md",
-    "PicoCTF/2do Parcial/Parte 1/2 - Inspect HTML.md",
-    "PicoCTF/2do Parcial/Parte 1/1 - Includes.md",
-    "PicoCTF/Forensic/1 - Glory of the Garden.md",
     "PicoCTF/2do Parcial/Parte 1/Untitled",
     "PicoCTF/2do Parcial/Parte 2",
     "PicoCTF/2do Parcial/Parte 1",
